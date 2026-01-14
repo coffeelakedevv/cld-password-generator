@@ -1,7 +1,7 @@
 # CLD Password Generator
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/coffeelakedevv/cld-password-generator/total?label=all_downloads)
-![GitHub Release](https://img.shields.io/github/v/release/coffeelakedevv/cld-password-generator)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/coffeelakedevv/cld-password-generator/total?label=all-downloads)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/coffeelakedevv/cld-password-generator/latest/total)
+![GitHub Release](https://img.shields.io/github/v/release/coffeelakedevv/cld-password-generator)
 ![Static Badge](https://img.shields.io/badge/status-ongoing-green)
 ![Static Badge](https://img.shields.io/badge/initial_release_date-7_January_2026-purple)
 
