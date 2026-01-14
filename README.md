@@ -4,4 +4,9 @@
 
 A simple, easy-to-use password generation app.
 
+<a href="BURAYA_INDIRME_LINKINI_YAZ">
+  <img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/49ea3ca6-088f-473d-98ea-fb0df3ff0d89" />
+</a>
+
+
 Password Generator helps you create strong passwords for all your accounts. Its most distinctive feature, setting it apart from other password generator apps, is that it includes 72 special symbols. While these symbols may not be accepted on some sites, they significantly make it harder for attackers to crack your password. To maximize the security of your accounts, be sure to enable two-step verification with authenticator apps on all your accounts.
