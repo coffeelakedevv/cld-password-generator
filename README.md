@@ -9,7 +9,9 @@
 
 A simple, easy-to-use password generation app.
 
-<img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/f603007e-b06b-4aba-8d9d-926b8b14f836" href="https://github.com/coffeelakedevv/cld-password-generator/releases/download/v1.2.5/CLDPasswordGenerator_Windows.rar" />
+<a href="https://github.com/coffeelakedevv/cld-password-generator/releases/download/v1.2.5/CLDPasswordGenerator_Windows.rar">
+  <img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/f603007e-b06b-4aba-8d9d-926b8b14f836" />
+</a>
 
 # About
 Password Generator helps you create strong passwords for all your accounts. Its most distinctive feature, setting it apart from other password generator apps, is that it includes 72 special symbols. While these symbols may not be accepted on some sites, they significantly make it harder for attackers to crack your password. To maximize the security of your accounts, be sure to enable two-step verification with authenticator apps on all your accounts.
