@@ -1,15 +1,16 @@
 # CLD Password Generator
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/coffeelakedevv/cld-password-generator/total)
 ![GitHub Release](https://img.shields.io/github/v/release/coffeelakedevv/cld-password-generator)
-![Static Badge](https://img.shields.io/badge/status-ongoing-blue)
-![Static Badge](https://img.shields.io/badge/initial_release_date-7_January_2026-orange)
+![GitHub file size in bytes](https://img.shields.io/github/size/coffeelakedevv/cld-password-generator/releases%2FCLDPasswordGenerator_Windows.rar)
+![Static Badge](https://img.shields.io/badge/status-ongoing-green)
+![Static Badge](https://img.shields.io/badge/initial_release_date-7_January_2026-purple)
 
 
 
 
 A simple, easy-to-use password generation app.
 
-<a href="BURAYA_INDIRME_LINKINI_YAZ">
+<a href="[BURAYA_INDIRME_LINKINI_YAZ](https://github.com/coffeelakedevv/cld-password-generator/releases)">
   <img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/49ea3ca6-088f-473d-98ea-fb0df3ff0d89" />
 </a>
 
