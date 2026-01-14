@@ -10,7 +10,7 @@
 
 A simple, easy-to-use password generation app.
 
-<a href="https://github.com/coffeelakedevv/cld-password-generator/releases/download/v1.2.5/CLDPasswordGenerator_Windows.rar">
+<a href="https://github.com/coffeelakedevv/cld-password-generator/releases/download/v1.2.5/CLDPasswordGenerator_Windows64bit.rar">
   <img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/f603007e-b06b-4aba-8d9d-926b8b14f836" />
 </a>
 
